@@ -18,3 +18,7 @@
 
   [plugins.inputs]
     record = true
+
+[module]
+  [[module.imports]]
+    path = "https://github.com/wjh18/hugo-liftoff"
